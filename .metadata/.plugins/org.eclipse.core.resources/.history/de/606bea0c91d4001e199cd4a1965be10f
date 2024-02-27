@@ -1,0 +1,10 @@
+package t01;
+
+public class Test6 {
+	public static void main(String[] args) {
+		int su1 = 10;
+		System.out.println("숫자 :"+ su1);
+		
+	}
+
+}
